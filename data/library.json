@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "my book",
+        "author": "nick",
+        "year": 2002,
+        "status": "выдана"
+    },
+    {
+        "id": 3,
+        "title": "paper",
+        "author": "sdfv",
+        "year": 4,
+        "status": "в наличии"
+    },
+    {
+        "id": 4,
+        "title": "opa",
+        "author": "november",
+        "year": 2005,
+        "status": "в наличии"
+    }
+]
